@@ -4,3 +4,6 @@ aplikacja/dostawy/DostawaTest.java
  aplikacja.dostawy.DostawaTest
 aplikacja/dostawy/ZamowienieTest.java
  aplikacja.dostawy.ZamowienieTest
+aplikacja/dostawy/ZamowienieTestMock.java
+ aplikacja.dostawy.ZamowienieTestMock
+ aplikacja.dostawy.ZamowienieTestMock$1

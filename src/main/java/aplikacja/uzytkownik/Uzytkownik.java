@@ -59,4 +59,10 @@ public class Uzytkownik {
     }
 
     public List<Zamowienie> pobierzHistorieZamowien(){return null;}
+
+    @Override
+    public boolean equals(Object aUzytkownik){
+        Uzytkownik uzytkownik = (Uzytkownik)aUzytkownik;
+        return email != uzytkownik.email;
+    }
 }

@@ -4,9 +4,9 @@ Main.java
  Main
 aplikacja/dostawy/Dostawa.java
  aplikacja.dostawy.Dostawa
+aplikacja/Dane.java
+ aplikacja.Dane
 aplikacja/dostawy/Zamowienie.java
  aplikacja.dostawy.Zamowienie
 aplikacja/uzytkownik/Uzytkownik.java
  aplikacja.uzytkownik.Uzytkownik
-aplikacja/Dane.java
- aplikacja.Dane
