@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="aplikacja.dostawy.ZamowienieTestMock" tests="1" skipped="0" failures="1" errors="0" timestamp="2022-01-18T22:47:23" hostname="LEGION" time="0.027">
+<testsuite name="aplikacja.dostawy.ZamowienieTestMock" tests="1" skipped="0" failures="1" errors="0" timestamp="2022-01-19T15:52:49" hostname="LEGION" time="0.032">
   <properties/>
-  <testcase name="testEquals()" classname="aplikacja.dostawy.ZamowienieTestMock" time="0.027">
+  <testcase name="testEquals()" classname="aplikacja.dostawy.ZamowienieTestMock" time="0.032">
     <failure message="java.lang.ExceptionInInitializerError" type="java.lang.ExceptionInInitializerError">java.lang.ExceptionInInitializerError
 	at aplikacja.dostawy.ZamowienieTestMock.testEquals(ZamowienieTestMock.java:34)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
